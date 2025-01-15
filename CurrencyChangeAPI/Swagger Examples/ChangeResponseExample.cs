@@ -1,4 +1,5 @@
-﻿using Swashbuckle.AspNetCore.Filters;
+﻿using CurrencyChangeAPI.Models;
+using Swashbuckle.AspNetCore.Filters;
 
 namespace CurrencyChangeAPI.Swagger_Examples;
 

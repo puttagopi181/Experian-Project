@@ -6223,11 +6223,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Experian-Project\\CurrencyChangeAPITest\\CurrencyChangeAPITest.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Source\\Repos\\Experian-Project1\\CurrencyChangeAPITest\\CurrencyChangeAPITest.csproj",
       "projectName": "CurrencyChangeAPITest",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Experian-Project\\CurrencyChangeAPITest\\CurrencyChangeAPITest.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Source\\Repos\\Experian-Project1\\CurrencyChangeAPITest\\CurrencyChangeAPITest.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Experian-Project\\CurrencyChangeAPITest\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Source\\Repos\\Experian-Project1\\CurrencyChangeAPITest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6249,8 +6249,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Lenovo\\source\\repos\\Experian-Project\\CurrencyChangeAPI\\CurrencyChangeAPI.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Experian-Project\\CurrencyChangeAPI\\CurrencyChangeAPI.csproj"
+            "C:\\Users\\Lenovo\\Source\\Repos\\Experian-Project1\\CurrencyChangeAPI\\CurrencyChangeAPI.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Source\\Repos\\Experian-Project1\\CurrencyChangeAPI\\CurrencyChangeAPI.csproj"
             }
           }
         }

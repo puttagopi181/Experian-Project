@@ -707,11 +707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Experian-Project\\CurrencyChangeAPI\\CurrencyChangeAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Source\\Repos\\Experian-Project1\\CurrencyChangeAPI\\CurrencyChangeAPI.csproj",
       "projectName": "CurrencyChangeAPI",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Experian-Project\\CurrencyChangeAPI\\CurrencyChangeAPI.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Source\\Repos\\Experian-Project1\\CurrencyChangeAPI\\CurrencyChangeAPI.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Experian-Project\\CurrencyChangeAPI\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Source\\Repos\\Experian-Project1\\CurrencyChangeAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

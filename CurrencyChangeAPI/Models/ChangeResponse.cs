@@ -1,4 +1,4 @@
-﻿namespace CurrencyChangeAPI;
+﻿namespace CurrencyChangeAPI.Models;
 
 public class ChangeResponse
 {
