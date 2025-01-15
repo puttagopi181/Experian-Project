@@ -89,9 +89,7 @@ public class ChangeControllerTests
 
         var expectedChange = new List<string>
             {
-                "1 x 20p",
-                "1 x 10p",
-                "1 x 10p",
+                "2 x 20p",
                 "1 x 1p"
             };
 

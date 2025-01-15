@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CurrencyChangeAPITest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba1ef836eb40d4f790a060b1195a82eff09c052d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44307ec81c08ac872cdac8408712c840e6d4ce19")]
 [assembly: System.Reflection.AssemblyProductAttribute("CurrencyChangeAPITest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CurrencyChangeAPITest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

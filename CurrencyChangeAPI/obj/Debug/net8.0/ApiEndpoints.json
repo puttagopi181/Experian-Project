@@ -20,7 +20,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "CurrencyChangeAPI.ChangeResponse",
+        "Type": "CurrencyChangeAPI.Models.ChangeResponse",
         "MediaTypes": [
           "text/plain",
           "application/json",
