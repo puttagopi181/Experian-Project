@@ -6,6 +6,6 @@ Below are few steps to run the application.
 2. Start the application.
 3. You will be able to see the example response and scehma for the response in swagger.
 4. Pass the respective parameter and make a call to the API.
-5. Request should be like this, https://localhost:7049/api/getchange?paidAmount=2022&productPrice=10.5
+5. Request should be like this, https://localhost:7049/api/getchange?paidAmount=2022&productPrice=10.5 (the localhost will be your local)
 6. To run test cases, Click on Test Menu -> Run All Tests.
 
