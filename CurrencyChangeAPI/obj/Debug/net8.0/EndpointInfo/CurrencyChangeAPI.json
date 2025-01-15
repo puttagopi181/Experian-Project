@@ -14,7 +14,9 @@
           {
             "name": "paidAmount",
             "in": "query",
+            "required": true,
             "schema": {
+              "minimum": 0.01,
               "type": "number",
               "format": "double"
             }
@@ -22,7 +24,9 @@
           {
             "name": "productPrice",
             "in": "query",
+            "required": true,
             "schema": {
+              "minimum": 0.01,
               "type": "number",
               "format": "double"
             }

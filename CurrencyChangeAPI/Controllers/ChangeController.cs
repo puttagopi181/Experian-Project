@@ -3,6 +3,7 @@ using CurrencyChangeAPI.Swagger_Examples;
 using CurrencyChangeAPI.Utilities;
 using Microsoft.AspNetCore.Mvc;
 using Swashbuckle.AspNetCore.Filters;
+using System.ComponentModel.DataAnnotations;
 
 namespace CurrencyChangeAPI.Controllers;
 
@@ -22,8 +23,10 @@ public class ChangeController : ControllerBase
     [ProducesResponseType(typeof(string), 400)]
     [SwaggerResponseExample(200, typeof(ChangeResponseExample))]
     [SwaggerResponseExample(400, typeof(BadRequestResponseExample))]
-    public IActionResult GetChange(decimal paidAmount, decimal productPrice)
+    public IActionResult GetChange([FromQuery, Required, Range(0.01, double.MaxValue, ErrorMessage = "Paid amount must be greater than zero.")] decimal paidAmount,
+        [FromQuery, Required, Range(0.01, double.MaxValue, ErrorMessage = "Product price must be greater than zero.")] decimal productPrice)
     {
+
         if (paidAmount < productPrice)
         {
             return BadRequest("Paid amount is less than the product price.");

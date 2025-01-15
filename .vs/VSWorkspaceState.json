@@ -1,16 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\.github",
-    "\\.github\\workflows",
-    "\\CurrencyChangeAPI",
-    "\\CurrencyChangeAPI\\.vs",
-    "\\CurrencyChangeAPI\\bin",
-    "\\CurrencyChangeAPI\\Controllers",
-    "\\CurrencyChangeAPI\\obj",
-    "\\CurrencyChangeAPI\\Properties",
-    "\\Local settings (.vs)"
+    ""
   ],
-  "SelectedNode": "\\CurrencyChangeAPI\\Program.cs",
+  "SelectedNode": "\\CurrencyChangeAPI.sln",
   "PreviewInSolutionExplorer": false
 }
